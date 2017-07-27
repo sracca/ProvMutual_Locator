@@ -1,5 +1,5 @@
 # ProvMutual_Locator
-Agent locator I created for the Providence Mutual website.
+Agent locator created for the Providence Mutual website.
 
 Usage:
 
