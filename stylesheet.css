@@ -23,7 +23,7 @@
 
 .storelocator-panel .store-list li.highlighted,
 .storelocator-panel .store-list li.highlighted:hover {
-    background: #7393ac;
+    background: #446f91;
 }
 
 .storelocator-panel .directions {
@@ -93,7 +93,7 @@
 }
 
 .store .web a {
-    color: green
+    color: green;
 }
 
 .store .action {
